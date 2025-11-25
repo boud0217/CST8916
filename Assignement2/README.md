@@ -159,7 +159,18 @@ Real‑time applications demand platforms that balance scalability, integration,
 
 ## References
 - Martinez, V. (2024, November 8). Modern web application architecture on AWS: Patterns, hosting, and apis with GraphQL, WebSockets, and rest. DEV Community. https://dev.to/vamartinez/modern-web-application-architecture-on-aws-patterns-hosting-and-apis-with-graphql-websockets-and-rest-2jii 
-
 - Choose between REST apis and HTTP apis - amazon API gateway. (n.d.). https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-vs-rest.html 
-
 - No Author. (2025a, August 19). AWS API gateway choices: Pros and cons of rest, GraphQL, and HTTP API - business compass LLC. Business Compass LLC - Cloud migration? Let’s talk. https://knowledge.businesscompassllc.com/aws-api-gateway-choices-pros-and-cons-of-rest-graphql-and-http-api/ 
+- Agarwal, S. (2023, September 12). Building scalable GraphQL APIs with AWS AppSync: A deep dive into operations. DEV Community. https://dev.to/sakshi360/building-scalable-graphql-apis-with-aws-appsync-a-deep-dive-into-operations-47bm
+- Linux Code. (2024, November 1). Build scalable, real-time applications with AWS AppSync and GraphQL. TheLinuxCode. https://thelinuxcode.com/build-scalable-real-time-applications-with-aws-appsync-and-graphql/
+- Red Sky Digital. (2025, October 19). Transitioning from REST to GraphQL: The case for AWS AppSync. Red Sky Digital. https://redskydigital.com/ce/transitioning-from-rest-to-graphql-the-case-for-aws-appsync/
+- Modern Technologist. (2024, May 11). Amazon MSK vs Kinesis: Choosing the right AWS streaming service. Modern Technologist. https://moderntechnologist.com/amazon-msk-vs-kinesis/
+- RisingWave. (2024, May 11). Amazon MSK and Kinesis: Unraveling the key differences. RisingWave Blog. https://risingwave.com/blog/amazon-msk-and-kinesis-unraveling-the-key-differences/
+- PeerSpot. (2025). Azure Stream Analytics: Pros and cons. PeerSpot. https://www.peerspot.com/products/azure-stream-analytics-pros-and-cons
+- Microsoft Learn. (2025). Introduction to Azure Stream Analytics. Microsoft Learn. https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction
+- Jain, S. (2025, June 24). Azure Stream Analytics: All you need to know. CloudKeeda. https://cloudkeeda.com/azure-stream-analytics/
+- Google Cloud. (2020, August 24). Dataflow vs. other stream, batch processing engines. Google Cloud Blog. https://cloud.google.com/blog/products/data-analytics/dataflow-vs-other-stream-batch-processing-engines
+- Google Cloud. (n.d.). Datastream overview. Google Cloud Documentation. https://cloud.google.com/datastream/docs/overview
+- Google Cloud. (n.d.). Implementing Datastream and Dataflow for analytics. Google Cloud Documentation. https://cloud.google.com/datastream/docs/implementing-datastream-dataflow-analytics
+- Swiftorial. (2024). Tech matchups: Google Cloud Pub/Sub vs Dataflow. Swiftorial. https://www.swiftorial.com/matchups/gcp/pubsub-vs-dataflow/
+- Hodo.dev. . (2022, July 28). HTTP, gRPC, and WebSocket on Google Cloud Run. Hodo.dev. . https://hodo.dev/posts/post-41-gcp-cloudrun-grpc-http-ws/
